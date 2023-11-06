@@ -21,7 +21,7 @@ module.exports = {
 			grayish: 'hsl(201, 11%, 66%)',
 			blue: 'hsl(233, 100%, 69%)',
             white:'#fff',
-            foot: 'rgb(243, 245, 247)'
+            bgfoot: 'rgb(243, 245, 247)'
 		},
 		fontFamily: {
 			sans: ['Bai Jamjuree', 'sans-serif'],
